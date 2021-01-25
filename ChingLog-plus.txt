@@ -1,7 +1,7 @@
 {"version_code":452646,"Content":"
-<p>V3.80</p>
-<li> </li>
-<li> </li>
+<p>V3.80تحديث</p>
+<li> اضافات رائعة</li>
+<li> تحسينات اخرى</li>
 <li> </li>
 <li> </li>
 <li> </li>
@@ -18,4 +18,4 @@
 <li> </li>
 
 
-","url":"    "}
+","url":"https://www.devalisy.com/2020/10/alwhatsapp.html"}
